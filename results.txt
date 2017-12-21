@@ -1,0 +1,47 @@
+CPU - Uniform 20 Classes
+Train accuracy = 0.9173845179465704
+Test accuracy = 0.9133811395979844
+
+CPU - Exponential 10 Classes
+Train accuracy = 0.873109043022624
+Test accuracy = 0.8735395093859017
+
+CPU + Mem - Uniform 20 Classes
+Train accuracy = 0.915352961331206
+Test accuracy = 0.9112907691455784
+
+CPU + Mem - Exponential 10 Classes
+Train accuracy = 0.8722299708244936
+Test accuracy = 0.8673514591062628
+
+All - Uniform 20 Classes
+Train accuracy = 0.8896418299929744
+Test accuracy = 0.8808627277257877
+
+All - Exponential 10 Classes
+Train accuracy = 0.8225450870592959
+Test accuracy = 0.7934409435738413
+
+ARNN - CPU Exponential 10 Classes
+Train Accuracy =  0.809649720877
+Test Accuracy =  0.797164848552
+
+ARNN - CPU + Mem Exponential 10 Classes
+Train Accuracy =  0.78922340547
+Test Accuracy =  0.750276870259
+
+ARNN - All Exponential 10 Classes
+Train Accuracy =  0.677664298248
+Test Accuracy =  0.633368403566
+
+ARNN - CPU Uniform 20 Classes
+Train Accuracy =  0.881297565939
+Test Accuracy =  0.882800819536
+
+ARNN - CPU + Mem Uniform 20 Classes
+Train Accuracy =  0.869616980629
+Test Accuracy =  0.864513538956
+
+ARNN - All Uniform 20 Classes
+Train Accuracy =  0.864816692681
+Test Accuracy =  0.844772689518
